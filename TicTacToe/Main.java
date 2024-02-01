@@ -14,9 +14,10 @@ public class Main {
         System.out.println("Welcome to the game Tic Tac Toe. ");
 
         char [][] board = new char[3][3];
+        System.out.println("Hej");
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++); 
-            
+
         }
     }
 }
